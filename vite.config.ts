@@ -10,8 +10,7 @@ export default defineConfig(async () => {
     resolve: {
       alias: {
         "@": path.resolve(import.meta.dirname, "src"),
-        "@shared": path.resolve(import.meta.dirname, "shared"),
-        "@assets": path.resolve(import.meta.dirname, "attached_assets"),
+        
       },
     },
     // 🔥 Removed that root = "/" nonsense
