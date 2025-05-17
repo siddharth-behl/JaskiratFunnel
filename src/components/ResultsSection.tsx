@@ -2,7 +2,7 @@ import { transformations } from "@/data/transformations";
 
 export default function ResultsSection() {
   return (
-    <section id="results" className="section py-16 md:py-24">
+    <section id="results" className="section py-5 md:py-24">
       <div className="container mx-auto px-4 md:px-8">
         <h2 className="text-2xl md:text-4xl font-bold text-center mb-4">
           <span className="text-secondary">Transformation</span> of a Few of My
@@ -36,7 +36,7 @@ export default function ResultsSection() {
                     />
                   </div>
 
-                  {/* AFTER */}
+                  normal   {/* AFTER */}
                   <div className="absolute top-0 right-0 w-1/2 h-full overflow-hidden">
                     <div className="absolute top-2 right-2 bg-secondary text-white text-xs font-bold px-2 py-1 rounded">
                       AFTER
@@ -57,12 +57,12 @@ export default function ResultsSection() {
                 </div>
 
                 {/* Text content */}
-                <div className="p-6">
+                {/* <div className="p-6">
                   <h3 className="font-bold text-xl mb-3">
                     {transformation.name}, {transformation.profession}
                   </h3>
                   <p className="text-[#555]">{transformation.testimonial}</p>
-                </div>
+                </div> */}
               </div>
             </div>
           ))}

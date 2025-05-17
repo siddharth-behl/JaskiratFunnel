@@ -7,7 +7,7 @@ export default function HeroSection() {
         <div className="flex flex-col items-center gap-8 md:gap-16">
           {/* Hero Image - Now on top and centered */}
           <div className="flex justify-center">
-            <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-secondary">
+            <div className="w-64 h-64 md:w-64 md:h-64 rounded-full overflow-hidden ">
               <img 
                 src="/Jaskirat.png" 
                 alt="Fitness Coach" 
@@ -18,7 +18,7 @@ export default function HeroSection() {
           
           {/* Hero Content */}
           <div className="w-full text-center">
-            <h1 className="text-3xl md:text-5xl font-bold mb-6 leading-loose">
+            <h1 className="text-3xl md:text-5xl font-bold mb-6 leading-tight">
               I help <span className="text-secondary">Corporate Professionals</span> who are tired of struggling with 'poor sleep & stress-linked weight gain' to lose 10-12 kgs of stubborn belly fat in 90 days
             </h1>
             
