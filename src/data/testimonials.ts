@@ -18,7 +18,8 @@ export const testimonials = {
         "Enjoyed the foods he liked",
         "Did reverse diet and now has 3400+ calories in a lean bulk and still has abs",
         "He's enjoying every cultural food he likes!"
-      ]
+      ],
+      beforeImg: "/Manpreet.png"
     },
     {
       name: "Siddharth Behl",
@@ -38,7 +39,9 @@ export const testimonials = {
         "Confidence through the roof",
         "Good relationship with food",
         "In a crazy masculine shape now"
-      ]
+      ],
+      beforeImg: "/Siddarth.png"
+
     },
     {
       name: "Shashank Marandi",
@@ -58,7 +61,8 @@ export const testimonials = {
         "Enjoys alcohol in balance",
         "Confidence through the roof",
         "Gut health is bulletproof now"
-      ]
+      ],
+      beforeImg: "/Shashank.png"
     },
     {
       name: "Sukhvinder Singh",
@@ -78,7 +82,8 @@ export const testimonials = {
         "Even travelled for 1 month and ate every meal out, still lost weight",
         "Knows how to balance food to stay in shape",
         "Bulletproof sleep and amazing gut health"
-      ]
+      ],
+      beforeImg: "/sukhvinder.png"
     },
     {
       name: "Aditya Harith",
@@ -98,7 +103,8 @@ export const testimonials = {
         "Clothes fit perfectly",
         "Got into a great shape",
         "Enjoys every food in moderation"
-      ]
+      ],
+      beforeImg: "/Aditya.png"
     }
   ]
 };

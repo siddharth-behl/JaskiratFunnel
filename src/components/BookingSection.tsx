@@ -17,7 +17,7 @@ export default function BookingSection() {
           </p>
           
           <p className="text-center font-bold mb-8">
-            ~ For Corporate Professionals ONLY!
+            ~ For Punjabi Men ONLY!
           </p>
           
           <div className="max-w-5xl mx-auto">

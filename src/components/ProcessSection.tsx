@@ -115,7 +115,7 @@ export default function ProcessSection() {
           </a>
           
           <p className="mt-4 text-sm text-[#888888] italic">
-            ~ For Corporate Professionals ONLY!
+            ~ For Punjabi Men ONLY!
           </p>
         </div>
       </div>
