@@ -21,7 +21,7 @@ export default function BookingSection() {
           </p>
           
           <div className="max-w-5xl mx-auto">
-            <div className="bg-white p-2 rounded-lg md:p-12 shadow-lg w-full">
+            <div className="bg-gray-100 p-2 rounded-lg md:p-12 shadow-2xl w-full border-red-700 border-2">
               <div className="text-center mb-6">
                 <h3 className="font-bold text-xl text-secondary mb-4">
                   Select a Date & Time That Works For You

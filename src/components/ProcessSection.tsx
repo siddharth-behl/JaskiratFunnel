@@ -1,8 +1,8 @@
 export default function ProcessSection() {
   return (
-    <section id="process" className="section py-1 md:py-1">
+    <section id="process" className="section py-7 md:py-1">
       <div className="container mx-auto px-4 md:px-8">
-        <h2 className="text-2xl md:text-4xl font-bold text-center mb-5">
+        <h2 className="text-2xl md:text-4xl font-bold text-center mb-5 pt-7">
           Why It <span className="text-secondary">Works?</span>
         </h2>
         
