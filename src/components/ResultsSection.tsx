@@ -13,16 +13,16 @@ export default function ResultsSection() {
         </p>
 
         {/* Screenshots Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 mb-16">
+        <div className="flex flex-wrap justify-center gap-8 mb-16"> 
           {transformations.map((item, index) => (
             <div
               key={index}
-              className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-all"
+              className="bg-white rounded-lg w-[20rem] shadow-md overflow-hidden hover:shadow-xl transition-all p-4 "
             >
               <img
                 src={item.screenshot}
                 alt={`Client Result ${index + 1}`}
-                className="w-full h-full object-cover "
+                className="w-full h-full object-cover rounded-lg "
               />
             </div>
           ))}
