@@ -4,9 +4,9 @@ export default function BookingSection() {
   const [, navigate] = useLocation();
 
   return (
-    <section id="booking" className="section py-16 md:py-24">
+    <section id="booking" className="section py-16 md:py-24 ">
       <div className="container mx-auto px-1 md:px-1">
-        <div className="bg-yellow-300 p-1 md:p-12 rounded-xl">
+        <div className=" p-1 md:p-12 rounded-xl">
           <h2 className="text-2xl md:text-4xl font-bold text-center mb-8">
             Book Your 60-Minute Fitness Strategy Call
           </h2>

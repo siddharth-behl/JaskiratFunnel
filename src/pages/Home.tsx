@@ -11,6 +11,7 @@ import FloatingButton from "@/components/FloatingButton";
 export default function Home() {
   return (
     <div className="min-h-screen">
+      <div className="px-3">
       <FloatingButton />
       {/* <Header /> */}
       <HeroSection />
@@ -19,6 +20,7 @@ export default function Home() {
       <ResultsSection />
       <AboutSection />
       <BookingSection />
+      </div>
       <Footer />
     </div>
   );

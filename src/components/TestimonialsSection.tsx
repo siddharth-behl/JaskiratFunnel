@@ -22,7 +22,7 @@ export default function TestimonialsSection() {
 
               {/* Video – Only rendered if it exists */}
               {testimonial.videoId && (
-                <div className="w-full aspect-video mt-4">
+                <div className="w-full md:w-1/2 aspect-video mt-4">
                   <iframe
                     className="w-full h-full"
                     src={`https://www.youtube.com/embed/${testimonial.videoId}`}

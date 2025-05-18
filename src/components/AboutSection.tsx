@@ -1,8 +1,8 @@
 export default function AboutSection() {
   return (
-    <section id="about" className="section py-16 md:py-24 bg-[#F5F5F5]">
+    <section id="about" className="section py-8 md:py-24 bg-[#F5F5F5]">
       <div className="container mx-auto px-4 md:px-8">
-        <h2 className="text-2xl md:text-4xl font-bold text-center mb-16">
+        <h2 className="text-2xl md:text-4xl font-bold text-center mb-8">
           This is Where <span className="text-secondary">I Help</span>
         </h2>
         
