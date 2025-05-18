@@ -22,7 +22,7 @@ export default function ResultsSection() {
               <img
                 src={item.screenshot}
                 alt={`Client Result ${index + 1}`}
-                className="w-full h-full object-cover aspect-[4/5]"
+                className="w-full h-full object-cover "
               />
             </div>
           ))}
