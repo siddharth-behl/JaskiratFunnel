@@ -37,7 +37,7 @@ export default function HeroSection() {
             </p>
 
             <p className="text-base md:text-lg font-medium mb-8">
-              Using my 10+ client-proven P.O.W.E.R. Framework
+              Using my 30+ client-proven P.O.W.E.R. Framework
             </p>
 
             <a
