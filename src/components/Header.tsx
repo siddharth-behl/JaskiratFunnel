@@ -23,7 +23,7 @@ export default function Header() {
 
   return (
     <header 
-      className={`bg-white py-4 sticky top-0 z-40 w-full transition-shadow duration-300 ${
+      className={`bg-white py-4 sticky top-0 z-40 w-full h-[3.8rem] transition-shadow duration-300 ${
         isScrolled ? "shadow-md" : "shadow-sm"
       }`}
     >
