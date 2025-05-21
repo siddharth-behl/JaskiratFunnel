@@ -30,7 +30,7 @@ export default function HeroSection() {
 
           {/* Hero Content */}
           <div className="w-full text-center">
-            <h1 className="text-lg md:text-5xl font-bold mb-4 md:mb-6 leading-snug md:leading-tight">
+            <h1 className="text-xl md:text-5xl font-bold mb-4 md:mb-6 leading-snug md:leading-tight">
               I help <span className="text-secondary">Punjabi Men</span> who are
               tired of struggling with 'poor sleep & stress-linked weight gain'
               to lose 10-12 kgs of stubborn belly fat in 90 days

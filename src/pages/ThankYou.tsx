@@ -68,7 +68,36 @@ export default function ThankYou() {
             <h3 className="font-bold text-xl mb-4 text-secondary">
               Here's Your 3 Most Important Steps Before Our Call:
             </h3>
-            <p className="mb-6">
+             {/* ✅ Wistia Embed */}
+             <div className="w-full mb-8">
+              <div
+                className="wistia_responsive_padding"
+                style={{ padding: "56.25% 0 0 0", position: "relative" }}
+              >
+                <div
+                  className="wistia_responsive_wrapper"
+                  style={{
+                    height: "100%",
+                    left: 0,
+                    position: "absolute",
+                    top: 0,
+                    width: "100%",
+                  }}
+                >
+                  <iframe
+                    src="https://fast.wistia.net/embed/iframe/z6wqp9mnrh"
+                    title="Wistia video player"
+                    allow="autoplay; fullscreen"
+                    allowFullScreen
+                    width="100%"
+                    height="100%"
+                    frameBorder="0"
+                  ></iframe>
+                </div>
+              </div>
+            </div>
+
+            <p className="mb-6 text-2xl font-bold" >
               Watch This Quick Bonus Training: 3 Secrets to achieve a lean,
               confident physique while developing sustainable fitness habits
               using my P.O.W.E.R. Framework
@@ -91,7 +120,7 @@ export default function ThankYou() {
                   }}
                 >
                   <iframe
-                    src="https://fast.wistia.net/embed/iframe/z6wqp9mnrh"
+                    src="https://fast.wistia.net/embed/iframe/q3nn84l9tp"
                     title="Wistia video player"
                     allow="autoplay; fullscreen"
                     allowFullScreen
