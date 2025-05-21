@@ -36,19 +36,19 @@ export default function HeroSection() {
               to lose 10-12 kgs of stubborn belly fat in 90 days
             </h1>
 
-            <p className="text-sm md:text-xl font-medium mb-3 md:mb-4">
+            <p className="text-md md:text-xl font-medium mb-3 md:mb-4">
               and achieve a{" "}
               <span className="text-secondary">lean, confident physique</span>{" "}
               while developing sustainable fitness habits using my P.O.W.E.R.
               Framework
             </p>
 
-            <p className="text-sm md:text-lg mb-6 md:mb-8">
+            <p className="text-md md:text-lg mb-6 md:mb-8">
               with personalized nutrition plans, efficient strength training, &
               accountability support...
             </p>
 
-            <p className="text-sm md:text-lg font-medium mb-6 md:mb-8">
+            <p className="text-md md:text-lg font-medium mb-6 md:mb-8">
               Using my 30+ client-proven P.O.W.E.R. Framework
             </p>
             {/* ✅ Wistia Embed */}
