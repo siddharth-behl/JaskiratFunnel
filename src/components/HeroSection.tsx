@@ -68,7 +68,7 @@ export default function HeroSection() {
                   }}
                 >
                   <iframe
-                    src="https://fast.wistia.net/embed/iframe/z6wqp9mnrh"
+                    src="https://fast.wistia.net/embed/iframe/q3nn84l9tp"
                     title="Wistia video player"
                     allow="autoplay; fullscreen"
                     allowFullScreen
