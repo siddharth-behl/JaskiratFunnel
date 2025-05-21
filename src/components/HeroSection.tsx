@@ -86,7 +86,7 @@ export default function HeroSection() {
               YES, I WANT TO LOSE FAT, GAIN MUSCLE & LOOK MUSCULAR!
             </a>
 
-            <p className="mt-3 md:mt-4 text-[10px] md:text-sm text-[#888888] italic">
+            <p className="mt-3 md:mt-4 text-[15px] md:text-sm text-[#888888] italic">
               ~ For Punjabi Men ONLY!
             </p>
           </div>
