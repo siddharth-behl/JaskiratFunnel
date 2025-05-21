@@ -110,7 +110,7 @@ export const testimonials = {
       name: "Ravineet Singh",
       profession: "Marketing Executive, Chandigarh",
       videoId: "pZr9cI0KKQ4", // Replace with actual YouTube ID if available
-      quote: "I was stuck at 127 kgs, drinking regularly, and had no routine. In just a few months, I dropped 8 kgs, fixed my sleep, and now I feel alive and clear-headed like never before.",
+      quote: "I was stuck at 127 kgs, drinking regularly, and had no routine. In just 8 weeks, I dropped 8 kgs, fixed my sleep, and now I feel alive and clear-headed like never before.",
       challenges: [
         "Daily alcohol consumption",
         "Late night binge eating",
@@ -125,7 +125,7 @@ export const testimonials = {
         "Shifted to clean and consistent eating habits",
         "Feels 10x more focused and mentally strong now"
       ],
-      beforeImg: "" // Update image path as needed
+      beforeImg: "/ravineet.jpg" // Update image path as needed
     }
   ]
 };
