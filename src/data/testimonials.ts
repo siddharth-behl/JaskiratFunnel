@@ -107,8 +107,8 @@ export const testimonials = {
       beforeImg: "/Aditya.png"
     },
     {
-      name: "Ravineet Singh",
-      profession: "Marketing Executive, Chandigarh",
+      name: "Ravineet Singh Marwah ",
+      profession: "Business Head, Gurugram",
       videoId: "pZr9cI0KKQ4", // Replace with actual YouTube ID if available
       quote: "I was stuck at 127 kgs, drinking regularly, and had no routine. In just 8 weeks, I dropped 8 kgs, fixed my sleep, and now I feel alive and clear-headed like never before.",
       challenges: [
