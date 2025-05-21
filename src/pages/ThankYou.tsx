@@ -19,7 +19,7 @@ export default function ThankYou() {
     <div className="min-h-screen w-full flex flex-col">
       <div className="flex-grow flex items-center justify-center py-16 mx-auto">
         <div className="text-center w-full px-4 max-w-3xl">
-          <div className="w-24 h-24 bg-secondary rounded-full flex items-center justify-center mx-auto mb-8">
+          <div className="w-24 h-24 bg-green-500 rounded-full flex items-center justify-center mx-auto mb-8">
             <CheckIcon className="h-12 w-12 text-white" />
           </div>
 
